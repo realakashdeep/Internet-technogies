@@ -1,0 +1,27 @@
+#clock {
+    color: black;
+}
+
+#clock.alert {
+    color: red;
+}
+
+label {
+    display: inline-block;
+    width: 60px;
+    text-align: right;
+    margin-right: 10px;
+}
+.time {
+    color: black;
+    border: 5px solid black;
+    margin: auto;
+    width: 15%;
+    text-align: center;
+  }
+  .inputs {
+    color: black;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+  }
