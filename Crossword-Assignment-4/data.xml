@@ -1,0 +1,166 @@
+<clues>
+<across>
+<clue>
+<row>1</row>
+<col>2</col>
+<number>5</number>
+<text>Gradual increase in volume</text>
+<length>9</length>
+<ans>CRESCENDO</ans>
+</clue>
+<clue>
+<row>3</row>
+<col>0</col>
+<number>8</number>
+<text>Staff of office</text>
+<length>4</length>
+<ans>MACE</ans>
+</clue>
+<clue>
+<row>3</row>
+<col>5</col>
+<number>9</number>
+<text>Size, immensity</text>
+<length>8</length>
+<ans>ENORMITY</ans>
+</clue>
+<clue>
+<row>5</row>
+<col>0</col>
+<number>10</number>
+<text>Injured party</text>
+<length>6</length>
+<ans>VICTIM</ans>
+</clue>
+<clue>
+<row>5</row>
+<col>7</col>
+<number>11</number>
+<text>Go round in circles</text>
+<length>6</length>
+<ans>GYRATE</ans>
+</clue>
+<clue>
+<row>7</row>
+<col>0</col>
+<number>13</number>
+<text>Pursue</text>
+<length>6</length>
+<ans>FOLLOW</ans>
+</clue>
+<clue>
+<row>7</row>
+<col>7</col>
+<number>15</number>
+<text>Massacre, slaughter</text>
+<length>6</length>
+<ans>POGROM</ans>
+</clue>
+<clue>
+<row>9</row>
+<col>0</col>
+<number>16</number>
+<text>Old fogey</text>
+<length>8</length>
+<ans>DINOSAUR</ans>
+</clue>
+<clue>
+<row>9</row>
+<col>9</col>
+<number>18</number>
+<text>Ridge of coal etc.</text>
+<length>4</length>
+<ans>REEF</ans>
+</clue>
+<clue>
+<row>11</row>
+<col>2</col>
+<number>19</number>
+<text>Valedictory utterance</text>
+<length>4,5</length>
+<ans>LASTWORDS</ans>
+</clue>
+</across>
+<updown>
+<clue>
+<row>0</row>
+<col>3</col>
+<number>1</number>
+<text>Eastern</text>
+<length>8</length>
+<ans>ORIENTAL</ans>
+</clue>
+<clue>
+<row>0</row>
+<col>5</col>
+<number>2</number>
+<text>Respect, admiration</text>
+<length>6</length>
+<ans>ESTEEM</ans>
+</clue>
+<clue>
+<row>0</row>
+<col>7</col>
+<number>3</number>
+<text>Be owned by</text>
+<length>6</length>
+<ans>BELONG</ans>
+</clue>
+<clue>
+<row>0</row>
+<col>9</col>
+<number>4</number>
+<text>Dutch cheese</text>
+<length>4</length>
+<ans>EDAM</ans>
+</clue>
+<clue>
+<row>2</row>
+<col>1</col>
+<number>6</number>
+<text>Bad breath</text>
+<length>9</length>
+<ans>HALITOSIS</ans>
+</clue>
+<clue>
+<row>2</row>
+<col>11</col>
+<number>7</number>
+<text>Supplier of office materials</text>
+<length>9</length>
+<ans>STATIONER</ans>
+</clue>
+<clue>
+<row>5</row>
+<col>9</col>
+<number>12</number>
+<text>The clothing industry</text>
+<length>3,5</length>
+<ans>RAGTRADE</ans>
+</clue>
+<clue>
+<row>7</row>
+<col>5</col>
+<number>14</number>
+<text>Riches</text>
+<length>6</length>
+<ans>WEALTH</ans>
+</clue>
+<clue> 
+<row>7</row>
+<col>7</col>
+<number>15</number>
+<text>Forgive, absolve</text>
+<length>6</length>
+<ans>PARDON</ans>
+</clue>
+<clue>
+<row>9</row>
+<col>3</col>
+<number>17</number>
+<text>Semi-transport gemstone</text>
+<length>4</length>
+<ans>OPAL</ans>
+</clue>
+</updown>
+</clues>
