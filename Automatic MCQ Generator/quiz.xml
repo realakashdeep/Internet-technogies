@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question>
+        <text>Who is the First PM of independent India?</text>
+        <option>A. Indira Gandhi</option>
+        <option>B. Rajendra Prasad</option>
+        <option>C. Jawaharlal Nehru</option>
+        <option>D. Narendra Modi</option>
+        <answer>C</answer>
+    </question>
+    <question>
+        <text>First battle of Panipat was fought between?</text>
+        <option>A. Babur and Lodi</option>
+        <option>B. Akbar and Hemu</option>
+        <option>C. Mughal and British</option>
+        <option>D. Akbar and Lodi</option>
+        <answer>A</answer>
+    </question>
+    <question>
+        <text>Battle of Buxar was fought in?</text>
+        <option>A. 1762</option>
+        <option>B. 1764</option>
+        <option>C. 1757</option>
+        <option>D. 1768</option>
+        <answer>B</answer>
+    </question>
+    <question>
+        <text>Which is the oldest civilization in the world?</text>
+        <option>A. Harappan</option>
+        <option>B. Hwang Ho</option>
+        <option>C. Indus</option>
+        <option>D. Mesopotamia</option>
+        <answer>D</answer>
+    </question>
+    <question>
+        <text>Genghis Khan founded the</text>
+        <option>A. Lodi Dynasty</option>
+        <option>B. Mughal Empire</option>
+        <option>C. Mongol Empire</option>
+        <option>D. Mohul Empire</option>
+        <answer>C</answer>
+    </question>
+    <question>
+        <text>Which of the foloowing is not a continent?</text>
+        <option>A. Oceania</option>
+        <option>B. Australia</option>
+        <option>C. Both A and B</option>
+        <option>D. None</option>
+        <answer>A</answer>
+    </question>
+    <question>
+        <text>The Treaty of Versailles was signed on?</text>
+        <option>A. 1918</option>
+        <option>B. 1919</option>
+        <option>C. 1920</option>
+        <option>D. 1917</option>
+        <answer>B</answer>
+    </question>
+    <question>
+        <text>What is 2+2 ?</text>
+        <option>A. 22</option>
+        <option>B. 4</option>
+        <option>C. 5</option>
+        <option>D. 0</option>
+        <answer>B</answer>
+    </question>
+    <question>
+        <text>Who is longest serving chief minister of india?</text>
+        <option>A. Jyoti Basu</option>
+        <option>B. Narendra Modi</option>
+        <option>C. Pawan Kumar Chamling</option>
+        <option>D. Mamata Banerjee</option>
+        <answer>C</answer>
+    </question>
+    <question>
+        <text>Where was Hitler was born?</text>
+        <option>A. Germany</option>
+        <option>B. Poland</option>
+        <option>C. Finland</option>
+        <option>D. Austria</option>
+        <answer>D</answer>
+    </question>
+</quiz>
