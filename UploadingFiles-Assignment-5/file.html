@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        function check() {
+            let fs = document.getElementById("file").files;
+            const numFiles = fs.length;
+            let size = 0;
+            let size_kb = 0;
+            if(numFiles > 5){
+                alert ("Maximum 5 files can be uploaded only.");
+                return(false);
+            }
+            else{
+                for (let i = 0; i < numFiles; i++) {
+                    size = fs[i].size;
+                    size_kb = (size) / (1024);
+                    if (size_kb > 10) {
+                        alert ("Size of file"+ fs[i].name + " is greater than 10KiB");
+                        return (false);
+                    }
+                }
+                return (true);
+            }
+            
+        }
+    </script>
+</head>
+
+<body>
+    <h2>Upload</h2>
+    <form action="upload.php" onsubmit="return(check())" method="POST" enctype="multipart/form-data">
+        File <input name="fn[]" id="file" multiple type="file">
+        <input type="submit" value="upload">
+    </form>
+</body>
+
+</html>
